@@ -1,5 +1,5 @@
 # SC1015 DSAI Project: Movie Recommendation
-Our motivation:
+## Our motivation:
 
 
 Project Goal:
@@ -11,7 +11,7 @@ Jupyter Notebooks:
 
 Slide Deck:
 
-Overview of DataScience Pipeline:
+## Overview of DataScience Pipeline:
 1. Data collection:
 2. Data cleaning and preprocessing:
 3. EDA & Visualization:
@@ -19,13 +19,13 @@ Overview of DataScience Pipeline:
 5. Classification:
 6. Key Insights & Recommendations:
 
-What we learnt from this project:
+## What we learnt from this project:
 Data collection:
 Data cleaning and preprocessing:
 EDA & Visualization:
 Machine Learning:
 
-Contributions:
+## Contributions:
 Data collection: Raeann, Jamie, Yue Cen
 Data cleaning & Preprocessing: Raeann
 EDA & Visualization: Jamie and Yue Cen
@@ -36,4 +36,4 @@ Presentation: Raeann, Jamie, Yue Cen
 Slides Deck: Raeann, Jamie, Yue Cen
 GitHub ReadMe: Raeann, Jamie, Yue Cen
 
-References:
+## References:
