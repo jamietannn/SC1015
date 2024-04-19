@@ -11,7 +11,7 @@ Jupyter Notebooks:
 
 Slide Deck:
 
-## Overview of DataScience Pipeline:
+## Overview of Data Science Pipeline:
 1. Data collection:
 2. Data cleaning and preprocessing:
 3. EDA & Visualization:
