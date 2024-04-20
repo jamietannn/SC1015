@@ -26,15 +26,15 @@ EDA & Visualization:
 Machine Learning:
 
 ## Contributions:
-Data collection: Raeann, Jamie, Yue Cen
-Data cleaning & Preprocessing: Raeann
-EDA & Visualization: Jamie and Yue Cen
-Content-based filtering: Raeann, Jamie, Yue Cen
-KMeans Clustering: Raeann, Jamie, Yue Cen
-Reccomendation System: Raeann, Jamie, Yue Cen
-Presentation: Raeann, Jamie, Yue Cen
-Slides Deck: Raeann, Jamie, Yue Cen
-GitHub ReadMe: Raeann, Jamie, Yue Cen
+- Data collection: Raeann, Jamie, Yue Cen
+- Data cleaning & Preprocessing: Raeann
+- EDA & Visualization: Jamie and Yue Cen
+- Content-based filtering: Raeann, Jamie, Yue Cen
+- KMeans Clustering: Raeann, Jamie, Yue Cen
+- Reccomendation System: Raeann, Jamie, Yue Cen
+- Presentation: Raeann, Jamie, Yue Cen
+- Slides Deck: Raeann, Jamie, Yue Cen
+- GitHub ReadMe: Raeann, Jamie, Yue Cen
 
 ## References:
 https://www.kaggle.com/code/tanusreedas/simple-recommender-system-step-by-step-explained
