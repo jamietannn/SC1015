@@ -93,3 +93,4 @@ GitHub ReadMe: Raeann, Jamie, Yue Cen
 - https://www.kaggle.com/code/tanusreedas/simple-recommender-system-step-by-step-explained
 - https://www.kaggle.com/code/olyapotemkina/movie-recommendation-system-dbscan
 - https://www.geeksforgeeks.org/principal-component-analysis-with-python/amp/
+- https://medium.com/@jishnumohan481/movie-recommendation-system-using-cosine-similarity-35f8667b6471#:~:text=Recommendation%20systems%20often%20use%20cosine,of%20similarity%20between%20two%20vectors
