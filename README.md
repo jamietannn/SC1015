@@ -51,9 +51,9 @@ Streaming platforms should:
 
 # What we learnt from this project:
 ### Data collection:
-
+- Extracting and merging data files
 ### Data cleaning and preprocessing:
-
+- Flattening of data
 ### EDA & Visualization:
 Visualisation of data with large number of data points:
 - Catergorial data through Bar plot
