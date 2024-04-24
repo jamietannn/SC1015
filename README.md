@@ -11,7 +11,7 @@
 We used the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv) from Kaggle, which consists metadata of about 5000 movies extracted from the movie database. We merged the movies and credits into one dataset, cleaned and processed it for Exploratory Data Analysis and Machine Learning.
 
 ## Jupyter Notebooks:
-
+- [Notebook](https://github.com/jamietannn/SC1015/blob/main/1015%20Project.ipynb)
 
 ## Slide Deck:
 - [Presentation slides](https://docs.google.com/presentation/d/17FGo3eEA0RyDWAkpeTLFurLoZrH1vGtaUkgM0o7YJyY/edit?usp=sharing)
