@@ -4,7 +4,6 @@
 - Hence, a strong recommendation system is pivotal in keeping users engaged and could not only retain existing users but can also attract more users by leveraging their individual preferences and interests.
 <img width="1512" alt="Screenshot 2024-04-24 at 12 15 47 PM" src="https://github.com/jamietannn/SC1015/assets/148201131/c90efed9-045b-4afb-b989-396f06dd19d1">
 
-
 ## Project Goal:
 - This project's objective is to develop a movie recommendation system tailored to individual users, providing personalised movie suggestions based on their past movie preferences to keep them engaged with the platform.
 
@@ -17,12 +16,13 @@ We used the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-
 ## Slide Deck:
 - [Presentation slides](https://docs.google.com/presentation/d/17FGo3eEA0RyDWAkpeTLFurLoZrH1vGtaUkgM0o7YJyY/edit?usp=sharing)
 
-
 # Overview of Data Science Pipeline:
 ### 1. Data collection:
-
+- 
 ### 2. Data Cleaning and Preprocessing:
+- 
 ### 3. EDA & Visualization:
+- 
 ### 4. Content Based Filtering:
 - TF-IDF Vectorization
 - Cosine Similarity
@@ -40,8 +40,11 @@ Streaming platforms should:
 
 # What we learnt from this project:
 ### Data collection:
+- 
 ### Data cleaning and preprocessing:
+- 
 ### EDA & Visualization:
+- 
 ### Machine Learning:
 Machine Learning Model:
 - KMeans Clustering
