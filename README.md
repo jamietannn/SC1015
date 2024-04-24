@@ -15,7 +15,7 @@
 
 
 ## Slide Deck:
-
+- [Presentation slides](https://docs.google.com/presentation/d/17FGo3eEA0RyDWAkpeTLFurLoZrH1vGtaUkgM0o7YJyY/edit?usp=sharing)
 
 ## Overview of Data Science Pipeline:
 1. Data collection:
