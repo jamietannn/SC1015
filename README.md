@@ -32,25 +32,36 @@
 - Clustering with KMeans
 - Cosine Similarity
 ### 6. Key Insights & Recommendations:
-- 
+Analysis:
+- Clustering with collaborative filtering is better as it increases personalisation and reduces computational complexity
+Streaming platforms should:
+- Focus on increasing user engagement through a more personalised experience
+- Regularly update recommendation models with new data for continuous learning and adaptation
 
-## What we learnt from this project:
-Data collection:
-Data cleaning and preprocessing:
-EDA & Visualization:
-Machine Learning:
+# What we learnt from this project:
+### Data collection:
+### Data cleaning and preprocessing:
+### EDA & Visualization:
+### Machine Learning:
+Machine Learning Model:
+- KMeans Clustering
+Data Analysis techniques:
+- Collaborative filtering
+- Principal Component Analysis
+- Cosine Similarity
+- TF-IDF Vectorization
 
-## Contributions:
-- Data collection: Raeann, Jamie, Yue Cen
-- Data cleaning & Preprocessing: Raeann
-- EDA & Visualization: Jamie and Yue Cen
-- Content-based filtering: Raeann, Jamie, Yue Cen
-- KMeans Clustering: Raeann, Jamie, Yue Cen
-- Reccomendation System: Raeann, Jamie, Yue Cen
-- Presentation: Raeann, Jamie, Yue Cen
-- Slides Deck: Raeann, Jamie, Yue Cen
-- GitHub ReadMe: Raeann, Jamie, Yue Cen
+# Contributions:
+### Data collection: Raeann, Jamie, Yue Cen
+### Data cleaning & Preprocessing: Raeann
+### EDA & Visualization: Jamie and Yue Cen
+### Content-based filtering: Raeann, Jamie, Yue Cen
+### KMeans Clustering with Collaborative Filtering: Raeann, Jamie, Yue Cen
+### Reccomendation System: Raeann, Jamie, Yue Cen
+### Presentation: Raeann, Jamie, Yue Cen
+### Slides Deck: Raeann, Jamie, Yue Cen
+### GitHub ReadMe: Raeann, Jamie, Yue Cen
 
-## References:
+# References:
 https://www.kaggle.com/code/tanusreedas/simple-recommender-system-step-by-step-explained
 https://www.kaggle.com/code/olyapotemkina/movie-recommendation-system-dbscan
