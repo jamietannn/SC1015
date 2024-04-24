@@ -23,9 +23,16 @@
 
 ### 2. Data cleaning and preprocessing:
 ### 3. EDA & Visualization:
-### 4. Regression:
-### 5. Classification:
+### 4. Content Based Filtering:
+- TF-IDF Vectorization
+- Cosine Similarity
+### 5. Clustering with Collaborative Filtering:
+- Finding optimum number of clusters: Elbow Curve % Silhouette Method
+- Principal Component Analysis
+- Clustering with KMeans
+- Cosine Similarity
 ### 6. Key Insights & Recommendations:
+- 
 
 ## What we learnt from this project:
 Data collection:
