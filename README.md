@@ -2,6 +2,8 @@
 ## Our motivation:
 - In today’s digital age, streaming platforms are everywhere and user engagement is key, which leads to a growing necessity for these platforms to differentiate themselves.
 - Hence, a strong recommendation system is pivotal in keeping users engaged and could not only retain existing users but can also attract more users by leveraging their individual preferences and interests.
+<img width="1512" alt="Screenshot 2024-04-24 at 12 15 47 PM" src="https://github.com/jamietannn/SC1015/assets/148201131/c90efed9-045b-4afb-b989-396f06dd19d1">
+
 
 Project Goal:
 
