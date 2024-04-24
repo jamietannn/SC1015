@@ -8,7 +8,7 @@
 - This project's objective is to develop a movie recommendation system tailored to individual users, providing personalised movie suggestions based on their past movie preferences to keep them engaged with the platform.
 
 ## Data used:
-We used the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv) from Kaggle, which consists metadata of about 5000 movies. We merged the movies and credits into one dataset, cleaned and processed it for Exploratory Data Analysis and Machine Learning.
+We used the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv) from Kaggle, which consists metadata of about 5000 movies extracted from the movie database. We merged the movies and credits into one dataset, cleaned and processed it for Exploratory Data Analysis and Machine Learning.
 
 ## Jupyter Notebooks:
 
@@ -18,11 +18,17 @@ We used the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-
 
 # Overview of Data Science Pipeline:
 ### 1. Data collection:
-- 
+- Extracted from kaggle, which extracts from the moveie database
+- Merged two datasets together: movies + credit
 ### 2. Data Cleaning and Preprocessing:
-- 
+- Remove useless features
+- Clean null data
+- Extract main features
 ### 3. EDA & Visualization:
-- 
+Explored, visualized, and generated insights for the following:
+- 'genres': 'primary_genre' & 'secondary_genre'
+- 'keywords'
+- 'popularity', 'vote_average' & 'vote_count'
 ### 4. Content Based Filtering:
 - TF-IDF Vectorization
 - Cosine Similarity
@@ -40,11 +46,15 @@ Streaming platforms should:
 
 # What we learnt from this project:
 ### Data collection:
-- 
+
 ### Data cleaning and preprocessing:
-- 
+
 ### EDA & Visualization:
-- 
+Visualisation of data with large number of data points:
+- Catergorial data through Bar plot
+- Numerical data: Boxplot
+  
+Visualisation of multiple variables: Heat map & Boxplot
 ### Machine Learning:
 Machine Learning Model:
 - KMeans Clustering
