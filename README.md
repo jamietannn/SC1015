@@ -9,7 +9,7 @@
 - This project's objective is to develop a movie recommendation system tailored to individual users, providing personalised movie suggestions based on their past movie preferences to keep them engaged with the platform.
 
 ## Data used:
-
+We used the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv) from Kaggle, which consists metadata of about 5000 movies. We merged the movies and credits into one dataset, cleaned and processed it for Exploratory Data Analysis and Machine Learning.
 
 ## Jupyter Notebooks:
 
@@ -21,7 +21,7 @@
 # Overview of Data Science Pipeline:
 ### 1. Data collection:
 
-### 2. Data cleaning and preprocessing:
+### 2. Data Cleaning and Preprocessing:
 ### 3. EDA & Visualization:
 ### 4. Content Based Filtering:
 - TF-IDF Vectorization
