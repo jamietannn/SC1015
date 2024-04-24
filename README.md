@@ -55,7 +55,7 @@ Data Analysis techniques:
 - TF-IDF Vectorization
 
 # Contributions:
-Data collection: Raeann, Jamie, Yue Cen
+Data collection: '''Raeann''', '''Jamie''', '''Yue Cen'''
 Data cleaning & Preprocessing: Raeann
 EDA & Visualization: Jamie and Yue Cen
 Content-based filtering: Raeann, Jamie, Yue Cen
