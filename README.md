@@ -40,6 +40,11 @@ Explored, visualized, and generated insights for the following:
 ### 6. Key Insights & Recommendations:
 Analysis:
 - Clustering with collaborative filtering is better as it increases personalisation and reduces computational complexity
+
+Limitations:
+- Insufficient test data for user preferences
+- Popularity bias
+
 Streaming platforms should:
 - Focus on increasing user engagement through a more personalised experience
 - Regularly update recommendation models with new data for continuous learning and adaptation
