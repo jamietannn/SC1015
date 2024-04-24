@@ -1,6 +1,7 @@
 # SC1015 DSAI Project: Movie Recommendation
 ## Our motivation:
-
+- In today’s digital age, streaming platforms are everywhere and user engagement is key, which leads to a growing necessity for these platforms to differentiate themselves.
+- Hence, a strong recommendation system is pivotal in keeping users engaged and could not only retain existing users but can also attract more users by leveraging their individual preferences and interests.
 
 Project Goal:
 
