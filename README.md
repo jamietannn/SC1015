@@ -48,6 +48,7 @@ Streaming platforms should:
 ### Machine Learning:
 Machine Learning Model:
 - KMeans Clustering
+
 Data Analysis techniques:
 - Collaborative filtering
 - Principal Component Analysis
