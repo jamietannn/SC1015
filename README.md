@@ -5,14 +5,17 @@
 <img width="1512" alt="Screenshot 2024-04-24 at 12 15 47 PM" src="https://github.com/jamietannn/SC1015/assets/148201131/c90efed9-045b-4afb-b989-396f06dd19d1">
 
 
-Project Goal:
+## Project Goal:
+- This project's objective is to develop a movie recommendation system tailored to individual users, providing personalised movie suggestions based on their past movie preferences to keep them engaged with the platform.
+
+## Data used:
 
 
-Data used:
+## Jupyter Notebooks:
 
-Jupyter Notebooks:
 
-Slide Deck:
+## Slide Deck:
+
 
 ## Overview of Data Science Pipeline:
 1. Data collection:
