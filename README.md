@@ -92,3 +92,4 @@ GitHub ReadMe: Raeann, Jamie, Yue Cen
 # References:
 https://www.kaggle.com/code/tanusreedas/simple-recommender-system-step-by-step-explained
 https://www.kaggle.com/code/olyapotemkina/movie-recommendation-system-dbscan
+https://www.geeksforgeeks.org/principal-component-analysis-with-python/amp/
